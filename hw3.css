@@ -57,7 +57,7 @@
 }
 .breakfast-part .card-part{
   float: left;
-  width: 35%
+  width: 35%;
 }
 .breakfast-part .card-part .card{
   width: 350px;
@@ -78,7 +78,7 @@
 }
 .breakfast-part .pic-part{
   float: right;
-  width: 65%;
+  width: 80%;
 }
 .breakfast-part .pic-part img{
   width: 100%;
